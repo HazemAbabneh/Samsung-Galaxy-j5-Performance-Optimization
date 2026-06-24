@@ -11,7 +11,12 @@ The other good option was MSM Xtended which was amazing at handling the cache an
 
 This long experience showed me that you do not need an expensive phone to understand how a system works. Dealing with these limits since I was 13 taught me how to find solutions by myself and make any weak hardware work perfectly.
 
-<img width="3456" height="3456" alt="IMG_20260402_194200_466" src="https://github.com/user-attachments/assets/05455055-72f1-4fce-a60a-cd051ab3d820" />
-<img width="3456" height="4608" alt="IMG_20250512_153435_219" src="<img width="3456" height="3456" alt="IMG_20260402_194315_244" src="https://github.com/user-attachments/assets/fe3bc4a3-7b20-459f-ae0c-07fc04fb9b3a" /><img width="3456" height="4608" alt="IMG_20250512_152719_381" src="https://github.com/user-attachments/assets/e0f21130-0572-4dac-a27b-0f9701176492" />
-" />
-<img width="3456" height="4608" alt="IMG_20250512_152734_151" src="https://github.com/user-attachments/assets/8e9fa588-a514-4a1d-ad95-e71846b1c7a0" />
+## Visual Proof & Media
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5ff5629-a967-48a1-9e87-38273ae2d640" width="18%" alt="Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/99d181e1-8477-460c-99c7-1f3dc2666818" width="18%" alt="Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/a7342c1d-56b9-4c54-820d-9fcfeefb7f05" width="18%" alt="Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/741ed2f9-54e2-4f6c-8f50-3b7b953091c9" width="18%" alt="Screenshot 4" />
+  <img src="https://github.com/user-attachments/assets/52c112ba-82f7-446d-81c2-92f555c11c5b" width="18%" alt="Screenshot 5" />
+</p>
+
