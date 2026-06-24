@@ -13,10 +13,10 @@ This long experience showed me that you do not need an expensive phone to unders
 
 ## Visual Proof & Media
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/741ed2f9-54e2-4f6c-8f50-3b7b953091c9" width="18%" alt="Screenshot 4" />
-  <img src="https://github.com/user-attachments/assets/52c112ba-82f7-446d-81c2-92f555c11c5b" width="18%" alt="Screenshot 5" />
   <img src="https://github.com/user-attachments/assets/a5ff5629-a967-48a1-9e87-38273ae2d640" width="18%" alt="Screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/99d181e1-8477-460c-99c7-1f3dc2666818" width="18%" alt="Screenshot 2" />
   <img src="https://github.com/user-attachments/assets/a7342c1d-56b9-4c54-820d-9fcfeefb7f05" width="18%" alt="Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/52c112ba-82f7-446d-81c2-92f555c11c5b" width="18%" alt="Screenshot 5" />
+  <img src="https://github.com/user-attachments/assets/741ed2f9-54e2-4f6c-8f50-3b7b953091c9" width="18%" alt="Screenshot 4" />
+  <img src="https://github.com/user-attachments/assets/99d181e1-8477-460c-99c7-1f3dc2666818" width="18%" alt="Screenshot 2" />
 </p>
 
