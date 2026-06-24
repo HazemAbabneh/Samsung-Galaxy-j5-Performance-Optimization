@@ -1,6 +1,5 @@
 # Samsung-Galaxy-j5-Performance-Optimization
-
-# My experience using custom ROMs to make an old phone smooth again
+ My experience using custom ROMs to make an old phone smooth again
 
 I have always loved playing around with phones and trying to make weak devices work better. I started these attempts when I was around 13 years old because I had an old Samsung Galaxy J5 with only 1.5GB of RAM and it was very slow. My main goal was simple I just wanted to make the device smooth enough for daily use and Performance Optimization for Mobile Gaming.
 
