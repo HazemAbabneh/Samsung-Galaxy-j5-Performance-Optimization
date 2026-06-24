@@ -20,3 +20,10 @@ This long experience showed me that you do not need an expensive phone to unders
   <img src="https://github.com/user-attachments/assets/99d181e1-8477-460c-99c7-1f3dc2666818" width="18%" alt="Screenshot 2" />
 </p>
 
+## Hardware & System Specifications
+* **Device:** Samsung Galaxy J5 (2015)
+* **Processor (SoC):** Qualcomm Snapdragon 410 (ARM Cortex-A53 @ 1.2 GHz)
+* **Architecture:** 32-bit (ARMv7-A Profile)
+* **Memory (RAM):** 1.5 GB LPDDR3
+* **Storage:** 8 GB eMMC 4.5 (Extremely limited environment)
+* **Stock OS:** Android 5.1.1 (TouchWiz UI - heavily bloated)
